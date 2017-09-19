@@ -1,0 +1,9 @@
+{
+  "name": "Free Time Redirect",
+  "version": "0.1",
+  "description": "Displays a closeable notification at the top of the homepage of chosen domains.",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "brain_icon.png"
+  }
+}
